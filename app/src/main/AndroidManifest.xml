@@ -26,6 +26,9 @@
             android:exported="false" />
         <activity
             android:name=".SingIn"
+            android:exported="false" />
+        <activity
+            android:name=".NewWindow"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
